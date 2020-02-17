@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+	Back End Developers: John Doe
+
+/* THANKS */
+	George Wise
+
+/* SITE */
+	Standards: HTML5, CSS3, W3C (as much as possible)
+	Core: Python 3 and Django 1.7
+	Components: jQuery
+	Software: SASS, Sublime Text, Terminal, Adobe CS, Made on Linux
+	Hardware Stack: Ubuntu 18.04, Postgresql 9.x, Nginx, uwsgi
+	Helpers: Haystack, Pipeline
