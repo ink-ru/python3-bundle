@@ -7,6 +7,9 @@ Script description
 
 import os, sys, re
 import argparse
+import env_file
+
+env_file.load()
 
 VERSION = "0.0.1"
 DEBUG = False
