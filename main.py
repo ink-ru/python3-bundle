@@ -9,10 +9,14 @@ import os, sys, re
 import argparse
 import env_file
 
+'''
+Loading constants:
+    VERSION
+    DEBUG
+    DB_NAME
+    DB_PASS
+'''
 env_file.load()
-
-VERSION = "0.0.1"
-DEBUG = False
 
 def createParser (): # http://jenyay.net/Programming/Argparse
 	parser = argparse.ArgumentParser(
