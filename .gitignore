@@ -1,3 +1,16 @@
+# IDE
+.idea
+
+# Windows shortcuts
+*.lnk
+
+# Data
+*.dat
+*.json
+
+# Configuration files
+*.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -76,6 +89,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipy__
 
 # IPython
 profile_default/
