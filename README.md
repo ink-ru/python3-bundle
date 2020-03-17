@@ -7,7 +7,11 @@ Empty python boilerplate skeleton wireframe template to start a new Python3 proj
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-[![Style](https://img.shields.io/badge/style-PEP 8-blue)](https://www.python.org/dev/peps/pep-0008/)
+[![Style](https://img.shields.io/badge/code%20style-PEP8-blue)](https://www.python.org/dev/peps/pep-0008/)
+
+[![CodeStyle](https://img.shields.io/badge/CodeStyle-PEP8-ligthblue)](https://shields.io/)
+
+
 ![coverage](https://img.shields.io/badge/coverage-90%25-yellowgreen)
 ![version](https://img.shields.io/badge/version-0.0.1-blue)
 
