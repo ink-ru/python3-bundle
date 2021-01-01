@@ -35,7 +35,7 @@ def main(argv):
     
     pass
 
-sys.exit(os.EX_OK) # code 0, all ok
+	sys.exit(os.EX_OK) # code 0, all ok
 
 # assert __name__ is '__main__'
 if __name__ == '__main__':
