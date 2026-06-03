@@ -1,9 +1,6 @@
 # IDE
 .idea
 
-# Windows shortcuts
-*.lnk
-
 # Data
 *.dat
 *.json
